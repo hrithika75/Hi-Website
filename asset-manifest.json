@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hi-website/static/css/main.e6c13ad2.css",
+    "main.js": "/hi-website/static/js/main.f0f2e274.js",
+    "static/js/453.fd02cde0.chunk.js": "/hi-website/static/js/453.fd02cde0.chunk.js",
+    "index.html": "/hi-website/index.html",
+    "main.e6c13ad2.css.map": "/hi-website/static/css/main.e6c13ad2.css.map",
+    "main.f0f2e274.js.map": "/hi-website/static/js/main.f0f2e274.js.map",
+    "453.fd02cde0.chunk.js.map": "/hi-website/static/js/453.fd02cde0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f0f2e274.js"
+  ]
+}
